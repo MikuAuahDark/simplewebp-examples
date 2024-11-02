@@ -1,0 +1,3 @@
+[submodule "simplewebp"]
+	path = simplewebp
+	url = https://github.com/MikuAuahDark/simplewebp
